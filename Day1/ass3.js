@@ -1,0 +1,17 @@
+let name = "Rahib Zaidi";
+let schoolName = "HFJ International";
+let grade = 9;
+let section = "B";
+let rollno = 72;
+console.log("###############Report Card################");
+console.log("#         ", schoolName, "            #");
+console.log("#----------------------------------------#");
+console.log("# Name:", name, "                     #");
+console.log("# Grade/Section:", grade,"/",section,"      ","           #");
+console.log("# Roll No:", rollno, "       ","                   #");
+console.log("# English : 100/100                      #");
+console.log("# Math : 100/100                         #");
+console.log("# Sceince : 100/100                      #");
+console.log("#                                        #");
+console.log("#                                        #");
+console.log("##########################################");
